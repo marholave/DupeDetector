@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: DupeDetector
+Sealed: true
+SPDX-License-Identifier: GPL-3.0-or-later
